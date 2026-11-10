@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <!-- Permite correr en una máquina que solo tenga un runtime más nuevo (9, 10...) -->
     <RollForward>Major</RollForward>
+    <UseAppHost>false</UseAppHost>
   </PropertyGroup>
 
   <ItemGroup>
